@@ -1,0 +1,8 @@
+ langchain==0.0.330
+ pyPDF2
+ openai==0.28.1
+ faiss-cpu
+ flask
+ tiktoken
+ pypdf
+ pandas
